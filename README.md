@@ -24,4 +24,5 @@ I'm a Full Stack Developer with 3 yearsof experience in building web application
 Feel free to reach out if you want to collaborate on a project or just chat about technology!
 
 ## 📄 Resume
-You can view/download my resume C:\Users\A\Downloads\Front End Developer Resume.pdf.
+You can view/download my resume
+[Front End Developer Resume.pdf](https://github.com/user-attachments/files/17550389/Front.End.Developer.Resume.pdf)
